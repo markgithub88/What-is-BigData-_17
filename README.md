@@ -1,4 +1,4 @@
-# Module_17_BigData
+# BigData(17)
 
 ## Overview of the analysis
 In this module challenge we want to examine the results of companies like SellBy who provide products to Amazon Vine members who are required to publish a review. Technically we are performing the ETL process to extract, transform, and load data into a database which is connected to Amazon AWS services. This process is a common process today in data science. Specifically, we are looking for bias towards Vine members in the data set.
